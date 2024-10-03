@@ -1,0 +1,60 @@
+header {
+    text-align: center;
+    background-color: #4CAF50;
+    padding: 10px;
+}
+
+body {
+    margin:0;
+    padding:0;
+    background-color: lightgray;
+
+}
+
+h1{ 
+    font-size: 2em;
+
+}
+
+h2{
+    text-align: left;
+    width: 325px;
+    background-color: beige;
+    padding: 10px 10px 10px 50px;
+    margin: 50;
+    border-radius: 10px;
+}
+
+h3{
+    background-color: darkgray;
+    padding: 5px;
+    margin: 0;
+}
+
+.section-style{
+    border: 1px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    
+}
+
+.catergory {
+    background-color: #2ca732;
+    padding: 10px;
+    margin: 10px ;
+    border-radius: 5px;
+    flex: 1 1 45%;
+    min-width: 200px;
+    
+}
+
+.photo-style{
+    margin: 5px;
+    border: 1px;
+    padding: 1px;
+    max-width: 100%;
+    align-self: center;
+    
+    }
